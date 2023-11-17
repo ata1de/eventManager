@@ -45,6 +45,7 @@ contents = CSV.open(
   headers: true,
   header_converters: :symbol
 )
+template_reader = File.read('lib/index.html')
 
 contents.each do |row|
   name = row[:first_name]
