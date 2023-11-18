@@ -7,6 +7,7 @@ This project aims to support a non-profit organization dedicated to political ac
 This project was based to job of the Odin Project, platform where study ruby and ruby on rails
 
 ## 💻 Learns
+<img  width = 400 src = "/assets/odin-project-event-manager.png">
 
 ## How to use
 - Save zip folder in your machine
