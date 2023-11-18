@@ -58,7 +58,6 @@ def legislators_by_zipcode(zip)
   end
 end
 
-
 puts 'EventManager initialized.'
 
 #Abre o arquivo CSV, modificando a primeira linha para ser o header e não intereferir nos outros como symbolo
